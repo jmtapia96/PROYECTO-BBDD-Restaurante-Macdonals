@@ -1,0 +1,7 @@
+Definir de que queremos hacer la aplicación, documento de requisitos
+
+PReparar tambien propuesta de solución de documento de requisitos y enlace de github
+
+La aplicación va a ser de un Restaurante que cogeremos la reserva de cada cliente a traves de una web,
+que confirme al cliente que su reserva ha sido un éxito o que está ocupada y elija otra hora o dia,
+tambien la reserva puede ser en terraza o en interior, los datos son nombre, correo, teléfono, dirección y numero de personas.
