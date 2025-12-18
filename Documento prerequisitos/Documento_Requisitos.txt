@@ -2,11 +2,19 @@ Definir de qué queremos hacer la aplicación, documento de requisitos
 
 Preparar tambien propuesta de solución de documento de requisitos y enlace de github
 
-La aplicación va a ser de un Restaurante que quiere cada reserva de cada cliente pueda ser tramitada a través de una web, que confirme al cliente que su reserva ha sido un éxito o que está ocupada y elija otra hora o dia, tambien la reserva puede ser en terraza o en interior, los datos de la persona son nombre, correo, teléfono, dirección. Los datos de reserva son el código, número de personas y zona.
+La aplicación va a ser de un Restaurante que quiere cada reserva de cada cliente pueda ser tramitada a través de una web,
+que confirme al cliente que su reserva ha sido un éxito o que está ocupada y elija otra hora o dia,
+tambien la reserva puede ser en terraza o en interior,
+los datos de la persona son nombre, correo, teléfono, dirección. Los datos de reserva son el código, número de personas y zona (terraza, interior).
 
 También quieren poder llevar un control de inventario de productos que lleva un registro de los productos que se han gastado en un mes y las existencias del mismo en el almacén. 
 
-También quiere tener un registro de proveedores con los productos que les compramos y la posibilidad de solicitar más productos, aparte quieren tener un recetario donde se especifiquen las recetas, los alimentos necesarios para hacerlas y si no hay suficiente de algún producto en el inventario, avise a la hora de consultar una receta.
 
+También quiere tener un registro de proveedores con los productos que les compramos, de cada proveedor queremos guardar el nombre,
+nombre de la empresa, productos que nos vende, precio de cada producto, descuentos, fiabilidad. También se tiene que tener 
+la posibilidad de solicitar más productos, aparte se quiere tener un recetario donde se especifiquen las recetas, los alimentos necesarios para hacerlas,
+los utensilios y tiempo de preparación y si no hay suficiente de algún producto en el inventario, avise a la hora de consultar una receta.
+
+También quieren tener un registro de empleados, donde se vea su nombre, puesto, dni, cuenta bancaria, sueldo, teléfono.
 
 Enlace de Github: https://github.com/jmtapia96/PROYECTO-BBDD-Restaurante-Macdonals/tree/main
